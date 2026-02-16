@@ -66,6 +66,7 @@ available_for: Freelance Projects & Collaboration
 #### 🖥️ Systems & Environment
 <img src="https://skillicons.dev/icons?i=linux,windows" />
 <br/>
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
 <img src="https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" />
 
 #### 🎨 Design & Office
