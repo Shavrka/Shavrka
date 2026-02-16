@@ -2,10 +2,6 @@
 <h3 align="center">Full-Stack Developer & Technical Writer from Republika Srpska</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Technical+Content+Writer;Linux+Enthusiast;Electrical+Engineering+Student" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://www.upwork.com/freelancers/~0104f7796b7e791004"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white" alt="Upwork"/></a>
   <a href="mailto:mihailoshavrka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Shavrka"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -50,7 +46,7 @@ available_for: Freelance Projects & Collaboration
 <div align="center">
 
 #### 💻 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
 <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 
 #### ⚙️ Backend Development  
@@ -64,22 +60,28 @@ available_for: Freelance Projects & Collaboration
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,bash" />
 
 #### 🖥️ Systems & Environment
-<img src="https://skillicons.dev/icons?i=linux,windows" />
+<img src="https://skillicons.dev/icons?i=linux,windows,bash" />
 <br/>
 <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
 <img src="https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" />
+<br/>
 
 #### 🎨 Design & Office
-<img src="https://skillicons.dev/icons?i=figma,ai,wordpress" />
+<img src="https://skillicons.dev/icons?i=figma,wordpress,ai,ps,xd" />
 <br/>
 <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
+<!-- Note: MS Office and Canva badges removed for consistent icon style. Consider adding relevant icons if available in skillicons.dev -->
 
 </div>
 
 ---
 
 ### 💼 What I Do
+
+
+<br/>
 
 <div align="center">
 
@@ -178,40 +180,22 @@ Writing engaging blog posts, technical articles, technology comparisons, and det
 
 ### 🤝 Let's Connect!
 
-<p align="center">
-  <strong>💼 Professional</strong>
+<div align="center">
+
+#### 💼 Professional
+
+<a href="https://www.upwork.com/freelancers/~0104f7796b7e791004"><img src="https://cdn.simpleicons.org/upwork/14A800" height="48" /></a><a href="mailto:mihailoshavrka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a><a href="https://github.com/Shavrka"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+
+#### 📱 Social
+
+<a href="https://instagram.com/shavrka"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="48" /></a><a href="https://twitter.com/vohamipu"><img src="https://cdn.simpleicons.org/x/000000" height="48" /></a><a href="https://www.threads.net/@shavrka"><img src="https://cdn.simpleicons.org/threads/000000" height="48" /></a><a href="https://discord.com/users/511259213188825098"><img src="https://cdn.simpleicons.org/discord/5865F2" height="48" /></a><a href="https://paypal.me/shavrka"><img src="https://cdn.simpleicons.org/paypal/003087" height="48" /></a>
+
+
+
+  
 </p>
 
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/~0104f7796b7e791004">
-    <img src="https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork&logoColor=white" alt="Upwork"/>
-  </a>
-  <a href="mailto:mihailoshavrka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Shavrka">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>📱 Social</strong>
-</p>
-
-<p align="center">
-  <a href="YOUR_TWITTER_URL">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="YOUR_THREADS_URL">
-    <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" alt="Threads"/>
-  </a>
-  <a href="https://paypal.me/shavrka">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white" alt="PayPal"/>
-  </a>
-</p>
+</div>
 
 <div align="center">
 
