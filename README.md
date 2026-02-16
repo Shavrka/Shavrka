@@ -1,7 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+👋;Hallo+👋;Привет+👋;Zdravo+👋;Hola+👋;Γειά+σου+👋" alt="Greeting" />
-</h1>
-<h2 align="center">I'm Mihailo Blagojević</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Mihailo+Blagojević;Hallo+👋+I'm+Mihailo+Blagojević;Привет+👋+I'm+Mihailo+Blagojević;Zdravo+👋+Ja+sam+Mihailo+Blagojević;Hola+👋+Soy+Mihailo+Blagojević;Γειά+σου+👋+Είμαι+ο+Mihailo+Blagojević" alt="Greeting" />
+</p>
 <h3 align="center">Full-Stack Developer & Technical Writer from Republika Srpska</h3>
 
 
@@ -198,7 +197,6 @@ Writing engaging blog posts, technical articles, technology comparisons, and det
 
 <a href="https://instagram.com/shavrka"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="48" /></a><a href="https://twitter.com/vohamipu"><img src="https://cdn.simpleicons.org/x/000000" height="48" /></a><a href="https://www.threads.net/@shavrka"><img src="https://cdn.simpleicons.org/threads/000000" height="48" /></a><a href="https://discord.com/users/511259213188825098"><img src="https://cdn.simpleicons.org/discord/5865F2" height="48" /></a><a href="https://paypal.me/shavrka"><img src="https://cdn.simpleicons.org/paypal/003087" height="48" /></a>
 
-
   
 </p>
 
@@ -233,3 +231,6 @@ Writing engaging blog posts, technical articles, technology comparisons, and det
 ### 🌟 Show some love by starring some repositories!
 
 **Available for freelance projects • Open to collaboration • Let's build something amazing together!**
+
+</div>
+
