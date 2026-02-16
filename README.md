@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mihailo Blagojević</h1>
 <h3 align="center">Full-Stack Developer & Technical Writer from Republika Srpska</h3>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Technical+Content+Writer;Linux+Enthusiast;Electrical+Engineering+Student" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~0104f7796b7e791004"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white" alt="Upwork"/></a>
   <a href="mailto:mihailoshavrka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
