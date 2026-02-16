@@ -64,7 +64,7 @@ available_for: Freelance Projects & Collaboration
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,bash" />
 
 #### 🖥️ Systems & Environment
-<img src="https://skillicons.dev/icons?i=linux,fedora,windows" />
+<img src="https://skillicons.dev/icons?i=linux,windows" />
 <br/>
 <img src="https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" />
 
