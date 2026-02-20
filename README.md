@@ -53,7 +53,7 @@ available_for: Freelance Projects & Collaboration
 <div align="center">
 
 #### 💻 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,threejs" />
 <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 
 #### ⚙️ Backend Development  
@@ -74,7 +74,7 @@ available_for: Freelance Projects & Collaboration
 <br/>
 
 #### 🎨 Design & Office
-<img src="https://skillicons.dev/icons?i=figma,wordpress,ai,ps,xd" />
+<img src="https://skillicons.dev/icons?i=figma,wordpress,ai,ps,xd,md" />
 <br/>
 <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
