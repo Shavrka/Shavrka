@@ -118,7 +118,7 @@ Writing engaging blog posts, technical articles, technology comparisons, and det
 
 ---
 
-<!--
+
 
 ### 📊 GitHub Stats
 
@@ -128,7 +128,7 @@ Writing engaging blog posts, technical articles, technology comparisons, and det
 
 ---
 
--->
+
 
 
 ### 🎯 Featured Projects
