@@ -118,17 +118,10 @@ Writing engaging blog posts, technical articles, technology comparisons, and det
 
 ---
 
-<!--
+
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shavrka&theme=tokyonight" alt="Shavrka" />
-</div>
-
----
-
--->
 
 <div align="center">
 
