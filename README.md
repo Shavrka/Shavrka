@@ -130,6 +130,15 @@ Writing engaging blog posts, technical articles, technology comparisons, and det
 
 -->
 
+<div align="center">
+
+![GitHub Stats](https://raw.githubusercontent.com/Shavrka/githubstatsstreak_version2/main/profile/stats.svg)
+
+![GitHub Streak](https://raw.githubusercontent.com/Shavrka/githubstatsstreak_version2/main/profile/streak.svg)
+
+![Top Languages](https://raw.githubusercontent.com/Shavrka/githubstatsstreak_version2/main/profile/langs.svg)
+
+</div>
 
 ### 🎯 Featured Projects
 
